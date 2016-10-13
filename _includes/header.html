@@ -1,25 +1,34 @@
-<!-- Header -->
-<header id="header"{% if page.layout == 'landing' %} class="alt"{% endif %}>
-  <h1><a href="{{ site.baseurl }}/index.html">{{ site.title }}</a></h1>
-  <nav id="nav">
-    <ul>
-      <li class="special">
-        <a href="#menu" class="menuToggle"><span>菜单</span></a>
-        <div id="menu">
-          <ul>
-            <li><a href="index.html">首页</a></li>
-            {% for my_page in site.pages %}
-            {% if my_page.title %}
-            <li><a href="{{ my_page.url | prepend: site.baseurl }}">{{ my_page.title }}</a></li>
-            {% endif %}
-            {% endfor %}
-            <li><a href="elements.html">元素</a></li>
-            <li><a href="generic.html">通用</a></li>
-            <li><a href="about.html">关于我</a></li>
-            <li><a href="{{ "/feed.xml" | prepend: site.baseurl }}" class="icon fa-feed"> RSS Feed</a></li>
-          </ul>
-        </div>
-      </li>
-    </ul>
-  </nav>
+<header id="top">
+    <div class="wrapper">
+        <a href="{{ site.baseurl }}/" class="brand">{{ site.title }}</a>
+        <small>{{site.brief-intro}}</small>
+        <button id="headerMenu" class="menu"><i class="fa fa-bars"></i></button>
+        <nav id="headerNav">
+            <ul>
+                <li>
+                    {% if page.url == '/' %}
+                    <a class="active" href="{{site.baseurl}}/">
+                        {% else %}
+                    <a href="{{site.baseurl}}/">
+                    {% endif %}
+                        <i class="fa fa-home"></i>主页
+                    </a>
+                </li>
+
+                {% for my_page in site.pages %}
+                    {% if my_page.title %}
+                    <li>
+                        {% if my_page.url == page.url %}
+                        <a class="active" href="{{ my_page.url | prepend: site.baseurl }}">
+                            {% else %}
+                        <a href="{{ my_page.url | prepend: site.baseurl }}">
+                        {% endif %}
+                            <i class="fa fa-{{my_page.icon}}"></i>{{ my_page.title }}
+                        </a>
+                    </li>
+                    {% endif %}
+                {% endfor %}
+            </ul>
+        </nav>
+    </div>
 </header>
