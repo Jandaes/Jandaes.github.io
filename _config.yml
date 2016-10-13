@@ -14,13 +14,13 @@ url: "http://jandaes.github.io" # the base hostname & protocol for your site
 permalink: /:year/:month/:day/:title/
 
 # other links
-twitter_username: gaohaoyang126
-facebook_username: gaohaoyang.water
-github_username:  Gaohaoyang
+#twitter_username: gaohaoyang126
+#facebook_username: gaohaoyang.water
+github_username:  jandaes
 email: 158464459@qq.com
-weibo_username: 3115521wh
-zhihu_username: gaohaoyang
-linkedIn_username: gaohaoyang
+weibo_username: 2978755757
+zhihu_username: deng-dai-shi-hou
+#linkedIn_username: gaohaoyang
 dribbble_username:
 
 description_footer: 本站记录我学习生活之旅的沿途风景！
