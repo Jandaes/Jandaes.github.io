@@ -29,14 +29,13 @@ icon: heart
 
 ## 联系我
 
-* GitHub：[Gaohaoyang](https://github.com/Gaohaoyang)
-* email：gaohaoyang126@126.com
-* [Weibo](http://weibo.com/3115521wh)
-* [知乎](https://www.zhihu.com/people/gaohaoyang)
-* [Facebook](https://www.facebook.com/gaohaoyang.water)
-* [Twitter](https://twitter.com/gaohaoyang126)
-* [豆瓣](https://www.douban.com/people/42525035/)
-* [豆瓣音乐人-浩阳的小站](https://site.douban.com/haoyangaiyinyue/)
+* GitHub：[Jandaes](https://github.com/Jandaes)
+* email：158464459@qq.com
+* java技术群:[java技术群](http://jq.qq.com/?_wv=1027&k=40Isttj) 365099707
+* weibo：[Weibo](http://weibo.com/2978755757)
+* zhihu:[知乎](https://www.zhihu.com/people/deng-dai-shi-hou)
+* [豆瓣](https://www.douban.com/people/150508733/)
+
 
 ## 关于本站
 
@@ -66,7 +65,7 @@ icon: heart
 * `[+]` 添加不蒜子计数功能，在footer上显示访问量
 * `[+]` 添加回到顶部功能
 
-*2016.4.27 v2.0.0*
+*2016.4.27 v2.0.0* 
 
 * `[^]` 基于 jekyll 3.1.2 重构了所有代码
 * `[+]` 主页添加了摘要，在正文中使用4个换行符来分割，可在`_config.yml`中修改
@@ -89,6 +88,6 @@ icon: heart
 
 [羡辙杂俎](http://zhangwenli.com/blog) \| [Anotherhome](https://www.anotherhome.net) \| [Reverland](http://reverland.org/) \| [ZhiLi](http://lizhipower.github.io/) \| [Simmer](http://simmer-jun.github.io/) \| [awthink](http://awthink.net/) \| [Aralic](http://aralic.github.io/) \| [zchen9](http://www.chen9.info/) \| [wuhuaji](http://wuhuaji.me/) \| [lisheng](http://www.lishengcn.cn/) \| [薛彬XueBin](http://axuebin.com/blog/) \| [TBOOX](http://www.tboox.org/cn/) 
 
-## Comments
+## 留言
 
 {% include comments.html %}
