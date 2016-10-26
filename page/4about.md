@@ -52,7 +52,7 @@ icon: heart
 
 
 ## 友情链接
-[ShineDe的博客](https://shinede.github.io/) \| [羡辙杂俎](http://zhangwenli.com/blog) \|  [Reverland](http://reverland.org/) \| [ZhiLi](http://lizhipower.github.io/) \| [Simmer](http://simmer-jun.github.io/) \| [awthink](http://awthink.net/) \| [Aralic](http://aralic.github.io/) \| [zchen9](http://www.chen9.info/) \| [命运的博客](http://457375608.github.io) \|  `您的位置`
+[ShineDe的博客](https://shinede.github.io/){:target="_blank"} \| [羡辙杂俎](http://zhangwenli.com/blog){:target="_blank"} \|  [Reverland](http://reverland.org/){:target="_blank"} \| [ZhiLi](http://lizhipower.github.io/){:target="_blank"} \| [Simmer](http://simmer-jun.github.io/){:target="_blank"} \| [awthink](http://awthink.net/){:target="_blank"} \| [Aralic](http://aralic.github.io/){:target="_blank"} \| [zchen9](http://www.chen9.info/){:target="_blank"} \| [命运的博客](http://457375608.github.io){:target="_blank"} \|  `您的位置`
 
 ## 留言
 
