@@ -12,7 +12,7 @@ tags: JavaScript 慕课网 this ife
 本文为慕课网 [JavaScript深入浅出](http://www.imooc.com/learn/277) JavaScript 中的 this笔记。
 
 
-
+<!--more-->
 
 
 ## 全局的 this

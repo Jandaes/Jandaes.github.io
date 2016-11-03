@@ -20,7 +20,7 @@ tags: JavaScript Array 算法 慕课网
 3. 类型的判断范围，需要区分: String, Boolean, Number, undefined, null, 函数, 日期, window.
 
 
-
+<!--more-->
 
 
 当以上全部满足，则返回**"判定结果:通过"**，否则返回**"判定结果:不通过"**。    

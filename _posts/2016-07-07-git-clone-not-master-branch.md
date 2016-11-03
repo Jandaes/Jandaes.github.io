@@ -18,8 +18,7 @@ git clone git@gitlab.xxx.com:xxxxx.git
 
 默认 clone 的是这个仓库的 master 分支。如果最新的代码不在 master 分支上，该如何拿到呢？如下图所示，最新的代码可能在`daily/1.4.1`分支上，我们希望拿到这个分支上的代码。
 
-
-
+<!--more-->
 
 ![7f07c8f6deef169ef6be5103bbd3e932f8676bb1.png](https://ooo.0o0.ooo/2016/07/07/577e349ab42ed.png)
 

@@ -18,7 +18,7 @@ tags: 面试 Lenovo 实习 JavaScript
 到了宣讲会现场，人不少，我坐在最后一排。开始就是一些介绍。包括 Future Leader 的介绍等。
 
 
-
+<!--more-->
 
 
 * [联想服务2015 Future leader实习生招聘](http://job.xjtu.edu.cn/jobsHtml/153824064.html) 这是相关信息。
