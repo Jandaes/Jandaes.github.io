@@ -23,7 +23,10 @@ zhihu_username: deng-dai-shi-hou
 #linkedIn_username: gaohaoyang
 dribbble_username:
 
+keywords: 留记录,个人博客,等待时候,java技术,SSM,Linux,Spring MVC,Spring,Mybatis,html,css,javascript,jquery,集群,负载均衡
+description: 留记录,专门留下自己技术博文以及生活中的点点滴滴.
 description_footer: 本站记录我学习生活之旅的沿途风景！
+
 
 # comments
 # two ways to comment, only choose one, and use your own short name
