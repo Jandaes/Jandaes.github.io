@@ -16,7 +16,7 @@ Mybatis虽好、但是表多了的话、就要重复写xml、dao、model，对�
 
 > 于是出现了自动生成工具，这工具会通过数据库自动反向生成对应的`dao`,`model`,`xml`，能够大大提示开发效率。
 
-下载地址：[http://pan.baidu.com/s/1qXXAigk](http://pan.baidu.com/s/1qXXAigk)    提取密码：`a11r`
+下载地址：[https://github.com/Jandaes/mybatis-mapper/tree/master](https://github.com/Jandaes/mybatis-mapper/tree/master)
 
 <!--more-->
 
