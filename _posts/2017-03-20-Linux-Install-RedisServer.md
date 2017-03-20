@@ -34,14 +34,14 @@ Redis 默认只能本机连接、不能远程连接，通过修改配置可远�
 
 关于bind配置的含义，配置文件里的注释是这样说的：
 
-> `#` By default Redis listens for connections from all the network interfaces
-> `#` available on the server. It is possible to listen to just one or multiple
-> `#` interfaces using the "bind" configuration directive, followed by one or
-> `#` more IP addresses.
-> `#`
-> `#` Examples:
-> `#`
-> `#` bind 192.168.1.100 10.0.0.1
+> `#` By default Redis listens for connections from all the network interfaces<br/>
+> `#` available on the server. It is possible to listen to just one or multiple<br/>
+> `#` interfaces using the "bind" configuration directive, followed by one or<br/>
+> `#` more IP addresses.<br/>
+> `#`<br/>
+> `#` Examples:<br/>
+> `#`<br/>
+> `#` bind 192.168.1.100 10.0.0.1<br/>
 
 大概意思是说Redis端口侦听所有的网络接口连接，服务器上可以只听一个或者多个，使用`bind` 指定命令。
 
@@ -52,8 +52,8 @@ Redis 默认只能本机连接、不能远程连接，通过修改配置可远�
 `{redis_host}`  远程Redis服务所在的服务器地址，`{redis_port}` Redis 服务端口(默认 : *6379*)
 
 例如：
-> redis-cli -h 192.168.1.100 -p 6379
-> 192.168.1.100:6379> ping
+> redis-cli -h 192.168.1.100 -p 6379<br/>
+> 192.168.1.100:6379> ping<br/>
 >PONG
 
 `ping` 测试是否连接成功、如果出现**PONG**，就代表连接成功！
