@@ -3,6 +3,7 @@ layout: post
 title:  "Linux安装Redis服务"
 categories: JAVA
 tags: redis
+description: Linux安装Redis服务，设置Redis远程访问操作
 ---
 
 * content
