@@ -38,17 +38,18 @@ Current Release 1.8.0 (2016-06-22)
 安装目录最好是消除空格和中文。
 
 ## 修改配置
-修改 `gitblit-1.8.0.tar.gz/data/defaults.properties` 文件
+修改 `gitblit-1.8.0/data/defaults.properties` 文件
 常用参数说明：
-> `git.sshPort` :ssh更新代码端口，默认为：`29418`
-> `server.httpPort` :http端口、供网页访问仓库,默认为：`0`
-> `server.httpsPort`:https端口、供网页访问仓库,默认为：`8443`
+> `git.sshPort` :ssh更新代码端口，默认为：`29418`  
+> `server.httpPort` :http端口、供网页访问仓库,默认为：`0`  
+> `server.httpsPort`:https端口、供网页访问仓库,默认为：`8443`  
 > `git.packedGitLimit`:设置大于最大存储库的大小,默认为：`10m`
 
 
 ## 启动gitblit
 * 通过java命令启动gitblit：
-> java -jar gitblit.jar --baseFolder data
+> java -jar gitblit.jar --baseFolder data  
+
 * 直接启动gitblit.sh 执行文件
 > sh gitblit.sh
 
@@ -57,7 +58,7 @@ Current Release 1.8.0 (2016-06-22)
 
 通过网页访问：
 
-我这设置`server.httpPort`为：`8446`那么网页访问地址为：[http://ip:8446](http://ip:8446)
+我这设置`server.httpPort`为：`8446`, 那么网页访问地址为：[http://ip:8446](http://ip:8446)  
 进入首页、默认帐号密码：`admin\admin`
 > 注意：确保更改管理员用户名/密码！
 
