@@ -2,6 +2,7 @@
 layout: post
 title:  ubuntu 如何安装 gitblit？
 categories: JAVA
+tags: gitblit
 description: ubuntu 如何安装 gitblit
 ---
 
