@@ -14,7 +14,7 @@ description: Intellij IDEA 中如何部署项目到 Tomcat
 - - -
 ### 添加Project Structure
 打开项目设置，快捷键`ctrl + shift + alt`
-![ProjectStructure|center](http://7xnudh.com1.z0.glb.clouddn.com/17-3-27/76771216-file_1490623552523_338b.png)
+![ProjectStructure|center](/images/2017-03-27/01.png)
  1. 设置Modules
  2. 设置`classer` 编译文件目录
  >  `提示`：**WEB-INF**  默认没有**classes**目录，手动在 WEB-INF 目录中添加 classes 文件夹
@@ -24,31 +24,31 @@ description: Intellij IDEA 中如何部署项目到 Tomcat
  <!--more-->
 - - -
 #### 设置`Paths`
- ![path设置|center](http://7xnudh.com1.z0.glb.clouddn.com/17-3-27/43292426-file_1490624247629_603f.png)
+ ![path设置|center](/images/2017-03-27/02.png)
  
  设置部署输出路径、路径为`WEB-INF`下新建的`classes`目录
  - - - 
 
 #### 添加需要部署的`lib`
-![lib|center](http://7xnudh.com1.z0.glb.clouddn.com/17-3-27/19141554-file_1490624724563_5e13.png)
+![lib|center](/images/2017-03-27/03.png)
 
 > 选中 `Dependencies` 右边添加`lib`,出现一个下拉框、选择`java`
 
 会弹出现有的`lib`、选择 `Tomcat 7.0.23`
-![Tomcatlib|center](http://7xnudh.com1.z0.glb.clouddn.com/17-3-27/23933082-file_1490624925529_3182.png)
+![Tomcatlib|center](/images/2017-03-27/04.png)
 - - - 
 ### 添加 Tomcat
 IDEA 右上角点击图片红圈位置
 
-![TomcatEdit|center](http://7xnudh.com1.z0.glb.clouddn.com/17-3-27/60666771-file_1490625151520_12066.png)
+![TomcatEdit|center](/images/2017-03-27/05.png)
 - - -
 
 ##### 添加一个本地Tomcat 
-![addLocalTomcat|center](http://7xnudh.com1.z0.glb.clouddn.com/17-3-27/59191481-file_1490625323088_133e6.png)
+![addLocalTomcat|center](/images/2017-03-27/06.png)
 - - -
 
 ##### 配置Tomcat信息
-![@图七|center](http://7xnudh.com1.z0.glb.clouddn.com/17-3-27/15945265-file_1490625606399_32af.png)
+![@图七|center](/images/2017-03-27/07.png)
 
 1. 给这个Tomcat 取个名字吧
 2. 选择Tomcat目录
@@ -59,7 +59,7 @@ IDEA 右上角点击图片红圈位置
 
 - - - 
 ##### 添加部署项目名
-![添加部署项目名|center](http://7xnudh.com1.z0.glb.clouddn.com/17-3-27/87187346-file_1490626146379_f2d1.png)
+![添加部署项目名|center](/images/2017-03-27/08.png)
 
 项目部署名浏览器访问项目的名字
 
@@ -73,10 +73,10 @@ IDEA 右上角点击图片红圈位置
 
 #### 启动Tomcat
 点击Tomact小绿点、启动Tomcat<br/>
-![StartTomcat|center](http://7xnudh.com1.z0.glb.clouddn.com/17-3-27/44966291-file_1490627033782_3842.png)
+![StartTomcat|center](/images/2017-03-27/09.png)
 
 启动成功：
-![DeploySuccess|center](http://7xnudh.com1.z0.glb.clouddn.com/17-3-27/96445494-file_1490627485660_11b46.png)
+![DeploySuccess|center](/images/2017-03-27/10.png)
 - - -
 #### 浏览器访问
 输入地址：`http://localhost:8081/`
@@ -87,4 +87,4 @@ IDEA 右上角点击图片红圈位置
 
 效果图：
 
-![](http://7xnudh.com1.z0.glb.clouddn.com/17-3-27/76528-file_1490627755387_20dc.png)
+![](/images/2017-03-27/11.png)

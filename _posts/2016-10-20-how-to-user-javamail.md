@@ -35,7 +35,7 @@ tags:  mail
 
 
 下面还有一个提示栏目、里面有服务器地址，我们是SMTP服务器所以选择`SMTP服务器: smtp.126.com`、代码需要使用到
-![SMTP服务开启](http://7xnudh.com1.z0.glb.clouddn.com/16-10-20/10037027.jpg)
+![SMTP服务开启](/images/2016-10-20/01.jpg)
 
 
 邮件服务代码
@@ -114,7 +114,7 @@ public class SendEmail {
 ```
 
 邮件发送成功
-![发送成功](http://7xnudh.com1.z0.glb.clouddn.com/16-10-20/78349557.jpg)
+![发送成功](/images/2016-10-20/02.jpg)
 
 ----
 

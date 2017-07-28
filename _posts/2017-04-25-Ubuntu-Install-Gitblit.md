@@ -54,7 +54,7 @@ Current Release 1.8.0 (2016-06-22)
 > sh gitblit.sh
 
 如果出现如图所示、那就是代表启动成功：
-![](http://7xnudh.com1.z0.glb.clouddn.com/17-4-25/7041478-file_1493096458061_1319c.jpg)
+![](/images/2017-04-25/01.jpg)
 
 通过网页访问：
 
@@ -62,7 +62,7 @@ Current Release 1.8.0 (2016-06-22)
 进入首页、默认帐号密码：`admin\admin`
 > 注意：确保更改管理员用户名/密码！
 
-![](http://7xnudh.com1.z0.glb.clouddn.com/17-4-25/28334444-file_1493096596888_3629.jpg)
+![](/images/2017-04-25/02.jpg)
 
 至此、就完成了gitblit.sh 操作！
 完全可以把这个当作github使用！
