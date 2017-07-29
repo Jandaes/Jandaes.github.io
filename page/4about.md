@@ -10,17 +10,14 @@ icon: heart
 
 ## 关于我
 
-就职于一家普通网络科技公司，后台开发工程师。
 
-主要兴趣集中在后台开发，也喜欢各种琢磨，喜欢各种瞎折腾。
+兴趣集中在后台开发，也喜欢各种琢磨，喜欢各种瞎折腾。
 
-`折腾各种集群、服务器、大数据、缓存，包括其它些玩意，PHP、WordPress、Hexo、Jekyll啥的都被糟蹋过!`
+`折腾各种集群、服务器、大数据、缓存，包括其它些玩意，WordPress、Hexo、Jekyll啥的都被糟蹋过!`
 
 在公司不止是做后台开发，也做前端开发，服务器操作。
 
 > PS:当然修电脑，重装系统，拉网线，修打印机这样的事就不用多说了！
-
-热爱美好的事物，热爱摇滚乐，组过乐队，卖过唱。
 
 很喜欢崔健的歌词：现实像块石头，精神像个蛋，石头虽然坚硬，可蛋里才是生命。
 
@@ -46,14 +43,11 @@ icon: heart
 
 ~欢迎使用~
 
-欢迎大家提一些对本站主题的建议，可以直接在下面留言或者新建一个 [Issue](https://github.com/Jandaes/Jandaes.github.io/issues)。
+欢迎大家提一些对本站主题的建议，可以直接在下面留言或者新建一个 [Issue](https://github.com/Jandaes/Jandaes.github.io/issues){:target="_blank"}。
 
 
 
 
 ## 友情链接
-[写记录](http://xiejilu.com/){:target="_blank"} \| [羡辙杂俎](http://zhangwenli.com/blog){:target="_blank"} \|  [Reverland](http://reverland.org/){:target="_blank"} \| [ZhiLi](http://lizhipower.github.io/){:target="_blank"} \| [Simmer](http://simmer-jun.github.io/){:target="_blank"} \| [awthink](http://awthink.net/){:target="_blank"} \| [Aralic](http://aralic.github.io/){:target="_blank"} \| [zchen9](http://www.chen9.info/){:target="_blank"} \| [命运的博客](http://457375608.github.io){:target="_blank"} \|  `您的位置`
+[写记录](http://xiejilu.com/){:target="_blank"}  \| [命运的博客](http://457375608.github.io){:target="_blank"} \|  `您的位置`
 
-## 留言
-
-{% include comments.html %}
