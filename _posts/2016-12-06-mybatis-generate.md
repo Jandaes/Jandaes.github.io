@@ -2,7 +2,7 @@
 layout: post
 title:  "通过数据库自动反向生成MyBatis文件"
 categories: JAVA
-tags: mybaits
+tags: mybatis
 ---
 
 * content
