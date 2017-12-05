@@ -90,3 +90,10 @@ linux 的 Crontab 定时任务命令 可以 在 linux 规定的时间做出相�
 - 在.sh的shell的脚本头部、写上`source /etc/profile`
 - 在定义任务的时候,加载环境变量    
 `*  *  *  *  * source /etc/profile /home/restartTomcat.sh`
+
+
+
+- - - 
+时间决定你会在生命中遇见谁，你的心决定你想要谁出现在你的生命里，而你的行为决定最后谁能留下。
+
+-- 《瓦尔登湖》
