@@ -56,6 +56,10 @@ icon: bookmark
 
 * [JavaScript 设计模式 系列 AlloyTeam](http://www.alloyteam.com/2012/10/common-javascript-design-patterns/){:target="_blank"}
 
+
+### Python3
+* [中文，免费，零起点，完整示例，基于最新的Python 3版本](https://www.liaoxuefeng.com/wiki/0014316089557264a6b348958f449949df42a6d3a2e542c000){:target="_blank"}
+
 ### ES2015
 
 * [http://www.ecma-international.org/ecma-262/6.0/](http://www.ecma-international.org/ecma-262/6.0/){:target="_blank"}
