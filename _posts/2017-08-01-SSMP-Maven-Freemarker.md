@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  SSM框架——详细整合教程（Spring+SpringMVC+MyBatisPlus+Maven）
-categories: java
+categories: JAVA
 tags: ssm
 description: SSM框架——详细整合教程（Spring+SpringMVC+MyBatisPlus+Maven）
 ---

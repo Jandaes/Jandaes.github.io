@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  java中文乱码常见解决方式
-categories: java
+categories: JAVA
 tags: 编码
 description: java常见编码设置
 excerpt: 本文记录java乱码、常见解决方案
