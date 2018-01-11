@@ -30,7 +30,7 @@ Java(Spring)
 ``` 
 
 <!--more-->
-#### 配置
+### 配置
 spring.xml    
 schema:    
 `xmlns:task="http://www.springframework.org/schema/task"`    
@@ -44,7 +44,7 @@ xsi:
 <context:component-scan base-package="com.task"/>
 <task:annotation-driven/>
 ```
-#### 任务类
+### 任务类
 ```java
 package com.task;
 @Component
@@ -61,3 +61,9 @@ public class PlayerTask {
     }
 }
 ```
+
+
+- - - 
+从伟大到可笑，相差只有一步。
+
+-- 《人间喜剧》
