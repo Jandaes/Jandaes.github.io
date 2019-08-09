@@ -49,5 +49,5 @@ icon: heart
 
 
 ## 友情链接
-[写记录](http://xiejilu.com/){:target="_blank"}  \| [命运的博客](http://457375608.github.io){:target="_blank"} \|  `您的位置`
+[网站地图](/sitemap.xml){:target="_blank"}  \| [写记录](http://xiejilu.com/){:target="_blank"}  \| [命运的博客](http://457375608.github.io){:target="_blank"} \|  `您的位置`
 
