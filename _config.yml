@@ -12,6 +12,7 @@ brief-intro: 耐心点,等待时间给你所有答案...
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://liujilu.com/" # the base hostname & protocol for your site
 
+
 permalink: /:year/:month/:day/:title/
 
 # other links
@@ -60,7 +61,7 @@ tag_dir: tag/
 excerpt_separator: <!--more-->
 
 # paginate
-gems: [jekyll-paginate]
+gems: [jekyll-paginate,jekyll-sitemap]
 paginate: 6
 
 
